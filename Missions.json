@@ -1,0 +1,589 @@
+{
+  "gameMissions": [
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": -3,
+            "y": 3,
+            "z": 100
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 1,
+            "y": 3,
+            "z": 30
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 5,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": -1,
+              "y": 3,
+              "z": 30
+            },
+            {
+              "x": -2,
+              "y": 3,
+              "z": 40
+            },
+            {
+              "x": -2,
+              "y": 3,
+              "z": 50
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 6,
+            "y": 0,
+            "z": 70
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    },
+    {
+      "pointsToPass": [
+        10,
+        15,
+        20
+      ],
+      "ammoCount": 35,
+      "playTime": 35,
+      "targets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "timeActive": -1,
+          "hits": 1
+        }
+      ],
+      "movingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "wayType": "LOOP",
+          "loopTime": 10,
+          "timeActive": -1,
+          "hits": 1,
+          "wayPoints": [
+            {
+              "x": 0,
+              "y": -2,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": -1,
+              "z": -1
+            },
+            {
+              "x": 0,
+              "y": 1,
+              "z": -1
+            }
+          ]
+        }
+      ],
+      "appearingTargets": [
+        {
+          "position": {
+            "x": 0,
+            "y": -2,
+            "z": -1
+          },
+          "delay": 2,
+          "cooldown": 2,
+          "timeActive": -1,
+          "hits": 1
+        }
+      ]
+    }
+  ]
+}
